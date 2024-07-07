@@ -8,9 +8,9 @@ data/: Directory containing test images for final classification.
 batch_files/: Directory containing preprocessed training and test batches.
 model/: Directory where the trained model will be saved.
 tensor.py: Main script containing the implementation of the model and training/testing procedures.
-**Requirements
-Python 3.6+
-PyTorch
-NumPy
-OpenCV
-Pickle**
+**Requirements:-
+Python 3.6+,
+PyTorch,
+NumPy,
+OpenCV.
+Pickle.**
